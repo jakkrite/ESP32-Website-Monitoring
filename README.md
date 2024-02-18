@@ -1,0 +1,1 @@
+I use ESP32-Website-Monitoring to get push notifications [LINE Notify] whenever my website goes DOWN. It's really easy and quick to set up and requires no extra changes to your website. We strive for minimal downtime, but if something goes wrong ESP32-Website-Monitoring makes sure that we know about it quickly.
